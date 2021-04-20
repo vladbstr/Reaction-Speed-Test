@@ -1,0 +1,49 @@
+#body{
+    background-color:blue;
+}
+
+.text{
+    color: white;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.text2{
+    color: white;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.top{
+    display: inline-block;
+}
+
+.scoreboard_container{
+    display: inline-block;
+    width: 200px;
+    min-width: 110px;
+    text-align: center;
+    margin-left: 20px;       
+}
+
+#Average_container{
+    width: 300px;
+    text-align: center;
+    right: 90px;
+    margin-right: 20px;
+    float: right;
+
+}
+
+#main_content{
+    margin: auto;
+    width: 50%;
+    padding: 10px;  
+    text-align: center;
+    margin-top: 300px;
+
+}
+#div1{
+    color: white;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
